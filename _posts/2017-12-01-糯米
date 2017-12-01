@@ -1,10 +1,10 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      糯米               # 标题 
+title:      糯米2               # 标题 
 subtitle:   大家好，我是小臭猫，也是小胖纸           #副标题
 date:       2017-12-01              # 时间
 author:     BY                      # 作者
-header-img: img/img/post-nomi-1    #这篇文章标题背景图片
+header-img: img/img/post-nomi-1.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 生活
@@ -13,6 +13,6 @@ tags:                               #标签
 ## 糯米的日常
 >
 
-![]（img/post-nomi-1）
-![]（img/post-nomi-2）
-![]（img/post-nomi-3）
+![]（img/post-nomi-1.jpg）
+![]（img/post-nomi-2.jpg）
+![]（img/post-nomi-3.jpg）
